@@ -1,0 +1,19 @@
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+packages/cli/dist/
+packages/local-api/dist/
+packages/local-client/build/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db

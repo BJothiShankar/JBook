@@ -1,0 +1,1 @@
+[{"content":"const App = () => {\r\n  return <h1>Hello World</h1>;\r\n};\r\n\r\nshow(<App />);","type":"code","id":"j8tnb"},{"content":"const App1 = () => {\r\n  return <h1>Hello from Cell 2</h1>;\r\n};\r\n\r\nshow(<App1 />);","type":"code","id":"q0t5y"}]
